@@ -1,0 +1,22 @@
+h2{
+    font-size: 170%;
+    color: #800000;
+    text-indent: 30px;
+
+}
+h3{
+    font-size: 130%;
+    text-indent: 30px;
+}
+center{
+    align-items: center;
+}
+a:hover{
+    font-style: italic;
+}
+#footer{
+text-align: center;
+}
+.shadow{
+text-shadow: 4px 4px 4px #800000;
+}
